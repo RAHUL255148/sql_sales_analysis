@@ -109,14 +109,4 @@ SQL Server Management Studio (SSMS)
 
 This project showcases strong data warehousing fundamentals, advanced SQL analytics, and the ability to design business-ready reporting logic, making it well-suited for Data Analyst and BI roles.
 
-📌 How to add screenshots (important)
 
-Create a folder named screenshots in your GitHub repo
-
-Take screenshots of your SQL code from SSMS
-
-Name them clearly (example: performance_analysis.sql.png)
-
-Upload them into the screenshots folder
-
-GitHub will automatically render them in this README
